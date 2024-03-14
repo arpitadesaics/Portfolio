@@ -25,17 +25,23 @@ Tools and Services: Eclipse, PyCharm, Windows, Linux, Git, NetBeans, Teamcenter,
 Foundational Concepts: Machine Learning and Deep Learning<br>
 <br>
 PROFESSIONAL WORK EXPERIENCE <br>
-Accenture, Bengaluru, India — Associate Software Engineer Nov 2020 – Aug 2022 <br>
-• Obtained certification from Accenture's Tech Expressway Program by completing training in Java, Python, SQL, 
-SDLC management, Web security, and Data Structures & Algorithms<br>
-• Worked on a PLM project to maintain the Teamcenter database; oversaw user creations; dealt with user complaints; 
-watched all data migrations; and actively solicited and clarified client requirements<br>
-• Collaborated with a 3-person team to create a software in Excel using Visual Basics<br>
-• Built PMA, IDSM, Teamcenter Volume, Store and Forward reports on a regular basis, working with manager to 
-monitor performance and boost software effectiveness by talking with clients about problems<br>
-• Gained extensive knowledge of Teamcenter software, Caterpillar software, Product Lifecycle Management, 
-Customer Relationship Management, Database Management, and SQL Utility Coding for data migration<br>
-<br>
+Dawn Foods, Boston, USA — Software Engineer Co-op  <br>                                                                    Jul 2023 – Dec 2023<br>
+•	Developed an efficient workplace account management workflow for email-less employees using Spring Boot, React, and Flyway Database, boosting productivity and engagement by 60%.<br>
+•	Enhanced security for the Workplace project by implementing automated SAP user verification using SAML assertion and Feign client integration, ensuring streamlined APIs.<br>
+•	Managed configuration files securely in GCP, resulting in a 30% decrease in unauthorized access and a 15% improvement in onboarding efficiency.<br>
+•	Led the design and deployment of a high-level Microservices architecture on GCP, with meticulous version control using Git in an Agile Scrum environment, ensuring streamlined development and project tracking with Jira.<br>
+•	Collaborated with cross-functional teams to foster effective teamwork, achieving collaborative goals and innovative solutions.<br>
+•	Integrated Content Stack for content management, reducing content update time by 30% and increasing the speed of publishing new e-commerce website pages by 25%, enhancing the overall user experience.<br>
+
+Accenture, Bengaluru, India — Associate Software Engineer                                                        Nov 2020 – Aug 2022 <br>
+•	Engineered an intuitive Issue Tracking Portal using Node.js and React, reducing submission time by 30%.<br>
+•	Spearheaded strategic form designs and data validation, boosting user experience and data completeness by 60%.<br>
+•	Implemented asynchronous processing and optimizing API response logic, halving user action response time.<br>
+•	Established streamlined workflow by automating manager assignment in Jira, reducing issue management time by 70% through direct integration, ensuring efficiency and real-time tracking.<br>
+•	Monitored Teamcenter software database and composed SQL queries to facilitate seamless data migration.<br>
+•	Attained certification in Accenture's Tech Expressway Program by completing 200 hours of coursework and assessments, demonstrating proficient problem-solving, networking, debugging, and decision-making skills<br>
+
+
 Smollan, Mumbai, India — Consultant May 2022 – Jul 2022<br>
 • Worked on areas of Data Pre-processing, NLP and met with objectives that were set at the beginning of data science 
 project for client Google <br>
@@ -44,33 +50,19 @@ product's quality. In addition, oversaw a group of 10 fresh interns<br>
 <br>
  
 ACADEMIC PROJECTS <br>
+Revolutionizing Fitness — Northeastern University<br>
+(HTML, CSS, Bootstrap, React, Node.js, Express.js, MongoDB)<br>
+•	Pioneered a comprehensive fitness website using a full-stack approach, integrating secure login, registration, and external APIs for seamless diet and workout plan management, enhancing fitness performance by 40%.<br>
 
-Blood Donation Application — Northeastern University Nov 2022 – Dec 2022<br>
+Hospital Management System — Northeastern University <br>                                                     
+ (Java, MySQL, RESTful API, HTML, Spring boot, React) <br>
+•	Developed a scalable Java, groovy script application with responsive design to streamline hospital management processes, resulting in a 30% reduction in patient wait times and a 25% increase in appointment bookings.<br>
+
+Blood Donation Application — Northeastern University <br>                                                                   
 (Java, Java Swing, JavaMail API, JDBC, MySQL) <br>
-• Developed an application for blood donation camp, where in people could register themselves for acquiring 
-information related to donation schedules at different donation camps 
-• Executed blood donation, hospital, government, and food enterprises that could manage major CRUD operation, 
-slot bookings, dealing with emergencies, ordering food and medicines necessary for blood donation process 
-• Designed application in a way that user could access news, contact information, FAQ, and details of different blood 
-donation camps and also receive email notifications, text message and report upon bill generation
-<br>
-Risk Assessment on Prudential Life Insurance — Northeastern University Sep 2022 – Oct 2022 <br>
-(Jupyter, Python, Pandas, Sklearn, Numpy, Seaborn)<br>
-• Applied Data Imputation, Feature Selection of categorical data by Chi square method and numerical data by 
-Mutual Information and Anova method, and One hot Encoding of categorical data for data preprocessing
-• Built Random Forest, KNN, XGBoost Classifier and Regressor models, visualized data and models using Seaborn
-• Improved accuracy from 67% to 80% and generated a balanced fit model by Grid Search optimization technique
-<br>
-Age Detection using Deep Learning — Northeastern University Sep 2022 – Oct 2022 <br>
-(Jupyter, Python, Pandas, Sklearn, Numpy, Seaborn)<br>
-• Implemented Data denoising, Image Resizing and Normalization, Categorical Encoding and Data Augmentation as 
-a part of data preprocessing
-• Integrated VGG and Deep CNN models for dataset, visualized data and models using Seaborn and Matplotlib
-• Enhanced accuracy from 72% to 84% by choosing Deep CNN model over VGG model
-<br>
-Hospital Management System — KLE Technological University May 2020 – Jun 2020
-<br>
-(Java, JDBC, MySQL, JavaMail API, HTML) <br>
-• Created a Java application to streamline hospital management process
-• Tailored Community Admin and System Admin, capable of performing CRUD operations
-• Carried out patient and doctor profile, can view and receive appointment details via email notifications
+•	Developed a blood donation camp app managing 5000+ registrations and donation schedules, offering CRUD operations, slot booking, emergency management, and supply ordering, resulting in a 40% increase in efficiency.<br>
+
+EXTRACURRICULAR AND UNIVERSITY INVOLVEMENT<br>
+ 
+Northeastern University, Boston, USA — Residential Security Officer <br>                                                 Jan 2023 – Present<br>
+•	Demonstrated exceptional leadership and decision-making skills as a RSO proctor and then got promoted as a supervisor, ensuring the security of campus residents while fostering a culture of professionalism and excellenc<br>
