@@ -45,7 +45,7 @@ Nov 2020 – Aug 2022 <br>
 •	Attained certification in Accenture's Tech Expressway Program by completing 200 hours of coursework and assessments, demonstrating proficient problem-solving, networking, debugging, and decision-making skills
 <br>
 Smollan, Mumbai, India — Consultant<br>
-May 2022 – Jul 2022<br>
+Aug 2020 – Nov 2020<br>
 • Worked on areas of Data Pre-processing, NLP and met with objectives that were set at the beginning of data science 
 project for client Google <br>
 • Gathered user data and feedback for reports, then offered recommendations on how to increase sales and improve 
